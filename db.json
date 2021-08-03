@@ -6,5 +6,13 @@
 		"email": "ritik@gmail.com",
 		"phone": 2,
 		"website": "ritikkr.github.io"
-	}]
+	},
+		  {
+			 "id": 2,
+		"name": "Ankit",
+		"username": "ankitkr",
+		"email": "abkitk@gmail.com",
+		"phone": 32423,
+		"website": "ankitkr.github.io" 
+		  }]
 }
