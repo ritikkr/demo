@@ -1,11 +1,10 @@
 {
-  "users": [
-  {"id":1, 
-   "name":"Ritik",
-   "username": "ritikkr", 
-   "email":"ritik@gmail.com", 
-   "phone":"9911721660",
-   "website":"ritikkr.github.io"
-  },
-  ]
+	"users": [{
+		"id": 1,
+		"name": "Ritik",
+		"username": "ritikkr",
+		"email": "ritik@gmail.com",
+		"phone": 2,
+		"website": "ritikkr.github.io"
+	}]
 }
